@@ -1,1 +1,1 @@
-rootProject.name = "hellogoose"
+rootProject.name = "hellogoose-kotlin"
