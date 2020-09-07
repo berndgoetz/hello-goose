@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.gooses</groupId>
-	<artifactId>hello-goose</artifactId>
+	<artifactId>hello-goose-spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>hello-goose</name>
