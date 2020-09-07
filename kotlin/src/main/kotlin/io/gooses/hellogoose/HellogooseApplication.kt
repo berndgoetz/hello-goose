@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.GetMapping
 class HellogooseApplication
 
 fun main(args: Array<String>) {
+	println("Hello from Kotlin")
 	runApplication<HellogooseApplication>(*args)
 }
 
