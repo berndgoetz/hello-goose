@@ -2,6 +2,8 @@
 python/vendor/*
 jsp/target/*
 spring-boot/target/*
+/spring-boot/.idea/*
+/spring-boot/hello-goose.iml
 binary/app/binary
 nodejs/node_modules
 .vscode/*
@@ -9,3 +11,4 @@ kotlin/build
 kotlin/out
 kotlin/.gradle
 kotlin/.idea
+/.idea/*
