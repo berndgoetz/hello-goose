@@ -1,5 +1,5 @@
 applications:
-- name: hello-goose-nodejs
+- name: hello-goose
   memory: 128M
-  instances: 3
+  instances: 1
   command: node app.js

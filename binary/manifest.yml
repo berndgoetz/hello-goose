@@ -2,7 +2,7 @@
 applications:
 - name: hello-goose
   memory: 512M
-  instances: 3
+  instances: 1
   command: ./binary
   path: app
   stack: cflinuxfs3

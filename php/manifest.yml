@@ -1,4 +1,4 @@
 applications:
 - name: hello-goose
   memory: 512M
-  instances: 3
+  instances: 1
